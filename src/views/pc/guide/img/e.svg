@@ -1,0 +1,14 @@
+<svg width="91" height="91" viewBox="0 0 91 91" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#230;&#176;&#148;&#230;&#179;&#161;" clip-path="url(#clip0_5466_3711)">
+<path id="Vector" d="M45.4372 90.8745C70.5315 90.8745 90.8745 70.5315 90.8745 45.4372C90.8745 20.3429 70.5315 0 45.4372 0C20.3429 0 0 20.3429 0 45.4372C0 70.5315 20.3429 90.8745 45.4372 90.8745Z" fill="url(#paint0_radial_5466_3711)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_5466_3711" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(45.4788 45.4788) scale(57.6341)">
+<stop offset="0.2234" stop-color="#50D955" stop-opacity="0"/>
+<stop offset="1" stop-color="#50D955" stop-opacity="0.5"/>
+</radialGradient>
+<clipPath id="clip0_5466_3711">
+<rect width="91" height="91" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Back">
+<path id="Oval" d="M39.5 20C39.5 30.7696 30.7696 39.5 20 39.5C9.23045 39.5 0.5 30.7696 0.5 20C0.5 9.23045 9.23045 0.5 20 0.5C30.7696 0.5 39.5 9.23045 39.5 20Z" fill="white" fill-opacity="0.15" stroke="white"/>
+<g id="Group 3">
+<mask id="mask0_1957_779" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="14" y="15" width="12" height="11">
+<path id="Clip 2" fill-rule="evenodd" clip-rule="evenodd" d="M26 15H14V26H26V15Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1957_779)">
+<path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd" d="M14 20.4985C14.0074 20.3016 14.0855 20.0742 14.2163 19.9317L18.4835 15.256C18.7715 14.9884 19.3275 14.8774 19.6492 15.1875C19.9678 15.4921 19.9583 16.0839 19.6418 16.3907L16.6416 19.6739H25.1993C25.6413 19.6739 26 20.0438 26 20.4985C26 20.9543 25.6413 21.3231 25.1993 21.3231H16.6416L19.6418 24.6064C19.914 24.8881 19.9647 25.5017 19.6492 25.8096C19.3349 26.1185 18.761 26.0195 18.4835 25.741L14.2163 21.0653C14.0707 20.9065 14 20.7183 14 20.4985Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
